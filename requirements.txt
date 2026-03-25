@@ -1,0 +1,4 @@
+streamlit
+pykakasi
+pandas
+requests
